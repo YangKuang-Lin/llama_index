@@ -42,7 +42,7 @@ There’s plenty of ways to contribute—whether you’re a seasoned Python deve
 
 Help us extend LlamaIndex's functionality by contributing to any of our core modules. Think of this as unlocking new superpowers for LlamaIndex!
 
-- **New Integrations** (e.g., connecting new LLMs, storage systems, or data sources)
+- **New Integrations** (e.g., connecting new LLMs, storage systems, or data sources).
 - **Data Loaders**, **Vector Stores**, and more!
 
 Explore the different modules below to get inspired!
@@ -186,7 +186,7 @@ pytest
 
 If you’re integrating with a remote system, **mock** it to prevent test failures from external changes.
 
-By default, CICD will fail if test coverage is less than 50% -- so please do add tests for your code!
+By default, CICD will fail if test coverage is less than 50%—so please do add tests for your code!
 
 ---
 
