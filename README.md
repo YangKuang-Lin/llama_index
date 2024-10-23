@@ -77,7 +77,7 @@ integrations that build on the core are both accepted and highly encouraged! See
 
 ## 📄 Documentation
 
-Full documentation can be found [here](https://docs.llamaindex.ai/en/latest/)
+Full documentation can be found [here](https://docs.llamaindex.ai/en/latest/).
 
 Please check it out for the most up-to-date tutorials, how-to guides, references, and other resources!
 
