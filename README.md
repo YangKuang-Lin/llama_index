@@ -128,12 +128,12 @@ Settings.llm = Replicate(
 
 # set tokenizer to match LLM
 Settings.tokenizer = AutoTokenizer.from_pretrained(
-    "NousResearch/Llama-2-7b-chat-hf"
+    "NousResearch/Llama-2-7b-chat-hf",
 )
 
 # set the embed model
 Settings.embed_model = HuggingFaceEmbedding(
-    model_name="BAAI/bge-small-en-v1.5"
+    model_name="BAAI/bge-small-en-v1.5",
 )
 
 documents = SimpleDirectoryReader("YOUR_DATA_DIRECTORY").load_data()
