@@ -84,7 +84,7 @@ LlamaIndex provides tools for beginners, advanced users, and everyone in between
 
 Our high-level API allows beginner users to use LlamaIndex to ingest and query their data in 5 lines of code.
 
-For more complex applications, our lower-level APIs allow advanced users to customize and extend any module -- data connectors, indices, retrievers, query engines, and reranking modules -- to fit their needs.
+For more complex applications, our lower-level APIs allow advanced users to customize and extend any module—data connectors, indices, retrievers, query engines, and reranking modules—to fit their needs.
 
 ## Getting Started
 
