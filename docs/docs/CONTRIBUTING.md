@@ -186,7 +186,7 @@ pytest
 
 If you’re integrating with a remote system, **mock** it to prevent test failures from external changes.
 
-By default, CICD will fail if test coverage is less than 50% -- so please do add tests for your code!
+By default, CICD will fail if test coverage is less than 50%—so please do add tests for your code!
 
 ---
 
@@ -194,7 +194,7 @@ By default, CICD will fail if test coverage is less than 50% -- so please do add
 
 We’d love to hear from you and collaborate! Join our Discord community to ask questions, share ideas, or just chat with fellow developers.
 
-Join us on Discord <https://discord.gg/dGcwcsnxhU>
+Join us on Discord <https://discord.gg/dGcwcsnxhU>.
 
 ---
 
